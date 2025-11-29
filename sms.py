@@ -114,4 +114,4 @@ def start_bombing():
 if __name__ == "__main__":
     banner()
     password_prompt()
-    menu()
+    menu() 
