@@ -16,7 +16,7 @@ python sms.py
 ```
 দ্বিতীয় বার রান দিতে 
 ```bash
-cd smd-bom
+cd sms-bom
 ```
 ```bash
 python sms.py
