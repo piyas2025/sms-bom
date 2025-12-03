@@ -2,6 +2,11 @@
 এক ক্লিকে ইনস্টলেশন 
 
 ```bash
+pkg update -y && pkg upgrade -y
+pkg install python -y
+pip install requests
+pkg install python-pip -y
+pip install requests
 pkg install git -y  
 pkg install curl -y 
 pkg install wget -y  
