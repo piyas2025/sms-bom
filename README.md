@@ -11,7 +11,7 @@ pkg install git -y
 pkg install curl -y 
 pkg install wget -y  
 pkg install openssh -y     
-git clone https://github.com/piyas2025/sms-bom.git
+git clone https://github.com/X-cyber-2025/sms-bom.git
 cd sms-bom
 python sms.py
 ```
